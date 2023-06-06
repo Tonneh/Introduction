@@ -1,6 +1,3 @@
-Hi! My name is Tony. I'm a computer science student at the University of Washington. I have an interest in game development and most of my time is spent playing video games or working on video games. 
+Hi! My name is Tony. I'm a computer science student at the University of Washington. I previously did game development in Unreal Engine 5 and Unity. 
 
-I enjoy using Unreal Engine 5. Some of the game genres I have worked on are shooters and survival games (even a little bit of 2D as well). My main interests are making multiplayer games as I think games with friends are always more fun. Plus learning networking and replication between server and client is always cool. 
-
-I'm currently learning how to make a survival game. 
-
+I'm now interested in large scale distributed systems. My most recent project is a miniature distributed storage system using a Raspberry Pi 4 and 16x Raspberry Pi Picos. 
