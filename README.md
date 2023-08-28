@@ -1,3 +1,8 @@
-Hi! My name is Tony. I'm a computer science student at the University of Washington. I previously did game development in Unreal Engine 5 and Unity. 
+Hi! My name is Tony. I'm a computer science student at the University of Washington. I graduate in the Fall of 2023 and am looking for new grad roles. 
 
-I'm now interested in large scale distributed systems. My most recent project is a miniature distributed storage system using a Raspberry Pi 4 and 16x Raspberry Pi Picos. 
+Some of the technologies I've worked with are: 
+- **Languages:** C++, C#, Java, Python and Rust
+- **Cloud Services:**  AWS (EC2, S3, RDS, MQ, ElastiCache, Route 53, DynamoDB)
+- **Frameworks/Libraries:** Play Framework (Java), Rocket (Rust), Yew (Rust), pandas (Python)
+- **Databases:** PostgreSQL, ScyllaDB, Cassandra, Redis
+- **Game Engines:**  Unreal Engine 5 and Unity 
