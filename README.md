@@ -1,4 +1,4 @@
-Hi! My name is Tony. I'm a computer science student at the University of Washington. I graduated in the Fall of 2023 and am looking for new grad roles. 
+Hi! My name is Tony. I am doing my Master's in computer science at the Georgia Institute of Technology.
 
 Some of the technologies I've worked with are: 
 - **Languages:** C++, C#, Java, Python and Rust
